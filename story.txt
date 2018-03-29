@@ -1,2 +1,3 @@
 hello world
 I use github.
+add a sample chars
